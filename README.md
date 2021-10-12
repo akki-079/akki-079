@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshad Bhandula
-- 👀 I’m interested in Python, Data Science, Machine Learning and Software Development
+- 👀 I’m interested in Python, Data Science, Machine Learning and React Development
 - 🌱 I’m currently learning Database Management
-- 💞️ I’m looking to collaborate on any open source python projects.
+- 💞️ I’m looking to collaborate on any open source python and React projects.
 - 📫 Reach me at akshad107@outlook.com
 
 <!---
